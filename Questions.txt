@@ -1,0 +1,43 @@
+-- Solve the below SQL problems using the Famous Paintings & Museum dataset:
+
+1) Fetch all the painting name, artist name which are not displayed on any museums?
+
+2) Are there museuems without any paintings?
+
+3) How many paintings have an asking price of more, less than and equal to their regular price? 
+
+4) Identify the painting artist and museum name whose asking price is less than 50% of its regular price
+
+5) Which canva size costs the 2nd most?
+
+6) Identify the museums with invalid city information in the given dataset
+
+7) Museum_Hours table has 1 invalid entry. Identify it and remove it.
+
+8) Fetch the top 10 most famous painting subject
+
+9) Identify the museums which are open on both Sunday and Monday. Display museum name, city.
+
+10) How many museums are open every single day?
+
+11) Which are the top 5 most popular museum? (Popularity is defined based on most no of paintings in a museum)
+
+12) Who are the top 5 most popular artist? (Popularity is defined based on most no of paintings done presented in the musuem)
+
+13) Display the 3 least popular canva sizes
+
+14) Which museum is open for the longest during a day. Dispay museum name, state and hours open and which day?
+
+15) Which museum has the most no of most popular painting style?
+
+16) Identify the artists whose paintings are displayed in multiple countries
+
+17) Display the country and the city with most no of museums. Output 2 seperate columns to mention the city and country. If there are multiple value, seperate them with comma.
+
+18) Identify the artist and the museum where the most expensive and least expensive painting is placed. Display the artist name, sale_price, painting name, museum name, museum city and canvas label
+
+19) Which country has the 5th highest no of paintings?
+
+
+
+
